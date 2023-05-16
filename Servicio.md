@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Servicio
-rank: 3
 ---
 
 <div align="center">
