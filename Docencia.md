@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Docencia
+rank: 3
 ---
 
 <div align="center">
