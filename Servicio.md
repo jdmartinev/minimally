@@ -27,17 +27,17 @@ Adicionalmente, desde el 2023-1 hago parte del comité de la Maestría en Cienci
 
 Durante el semestre 2023-1, he participado como ponente en diferentes charlas sobre Inteligencia Artificial y el uso e implicaciones de herramientas como ChatGPT en la educación. Las charlas fueron ofertadas para docentes de la Universidad EAFIT y se realizaron a través del Centro para la Excelencia en el Aprendizaje EXA.
 
-Título: Artificial Intelligence and its rol in education
-Evento: Acción EAFIT
-Fecha: 14/02/2023
+Título: Artificial Intelligence and its rol in education <br> 
+Evento: Acción EAFIT <br>
+Fecha: 14/02/2023 <br>
 
-Título: Prompt engineering
-Evento: Acción EAFIT
-Fecha: 30/05/2023
+Título: Prompt engineering <br>
+Evento: Acción EAFIT <br>
+Fecha: 30/05/2023 <br>
 
-Título: Conversatorio: usos educativos del ChatGPT para las escuelas de la universidad
-Evento: Acción EAFIT
-Fecha: 18/04/2023-9/05/2023
+Título: Conversatorio: usos educativos del ChatGPT para las escuelas de la universidad <br>
+Evento: Acción EAFIT <br>
+Fecha: 18/04/2023-9/05/2023 <br>
 
 ### Evaluaciones
 
@@ -53,7 +53,7 @@ Estudiante: Daian Paola Fajardo Becerra <br>
 Programa: Maestría en Ciencias de los Datos y Analítica <br>
 Institución: Universidad EAFIT <br>
 
-Título: Predicción de lageneración municipal deresiduos orgánicos. Unaaproximación desde el aprendizaje de máquinas <br>
+Título: Predicción de la generación municipal deresiduos orgánicos. Una aproximación desde el aprendizaje de máquinas <br>
 Estudiante: Juan Luis Orrego Henao <br>
 Programa: Maestría en Ciencias de los Datos y Analítica <br>
 Institución: Universidad EAFIT <br>
