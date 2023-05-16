@@ -117,9 +117,24 @@ Pasante: Manuela Larrea
 
 Actualmente, dirijo el Semillero en Machine Learning que cuenta con más de 10 estudiantes de Ingeniería de Sistemas, Ingenieria Matemática, Administración, entre otras.
 
+### Investigadores visitantes
+
+En 2023-1 recibí dos pasantes doctorales de la Universidad de Antioquia:
+
+Título: Modelo de inteligencia computacional para inferir prejuicio hacia actores del conflicto armado colombiano a partir de datos electrofisiológicos y comportamentales
+Estudiante: Jhon Jair Quiza Montealegre
+Programa: Doctorado en Ingeniería Electrónica y de Computación
+Institución: Universidad de Antioquia
+
+Título: Separación de fuentes en datos ecoacústicos usando modelos de inteligencia computacional
+Estudiante: David Felipe Luna Naranjo
+Programa: Doctorado en Ingeniería Electrónica y de Computación
+Institución: Universidad de Antioquia
+
 <div align="center">
     <a href="./Docencia.html">&laquo;Anterior</a>
     &nbsp; &nbsp; &nbsp;
     <a href="./Servicio.html">Siguiente &raquo;</a>
 </div>
+
 
