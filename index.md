@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informe 2022-2 - 2023-1
+title: Informe 
 rank: 1
 ---
 
