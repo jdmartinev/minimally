@@ -17,9 +17,10 @@ rank: 1
   <h3 align="center">Informe primer año de vinculación</h3>
 
   <p align="center">
-    Este documento muestra las actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT y el plan de trabajo planeado para los próximos cinco años <br />
-    Juan David Martínez Vargas
+     Juan David Martínez Vargas
   </p>
+  
+  Este documento muestra las actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT y el plan de trabajo planeado para los próximos cinco años <br />
 </div>
 
 
