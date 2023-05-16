@@ -106,6 +106,13 @@ Estudiante: Juan Carlos González Vélez <br>
 Institución: Instituto Tecnológico Metropolitano - ITM <br>
 Estado: Propuesta aprobada <br>
 
+### Jóvenes investigadores
+
+Dirijo la siguiente pasantía de investigación financiada por la convocatoria de Jóvenes Investigadores Minciencias:
+
+Título: Generación, validación y análisis de Modelos de Machine Learning con procesamiento de imágenes para medir el nivel y tipo de infección y prevenir pérdidas en los cultivos
+Pasante: Manuela Larrea
+
 ### Semilleros
 
 Actualmente, dirijo el Semillero en Machine Learning que cuenta con más de 10 estudiantes de Ingeniería de Sistemas, Ingenieria Matemática, Administración, entre otras.
