@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Informe de actividades
+rank: 1
 ---
 
 <a name="readme-top"></a>
