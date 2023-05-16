@@ -85,6 +85,15 @@ Título: Interfaz de control cerebral para personas con movilidad reducida <br>
 Convocatoria:Convocatoria conjunta Universidad de Caldas, Universidad Nacional de Colombia sede Manizales, para proyectos de Investigación 2021 - segunda cohorte <br>
 Entidad: Universidad de Caldas, Universidad Nacional de Colombia sede Manizales <br>
 
+
+### Formación
+
+Realicé los siguientes cursos:
+
+Título: 
+
+
+
 ### Otros
 
 En 2023-1, gestioné el convenio con la Universidade Feevale de Brasil. El convenio se encuentra firmado por parte de las dos universidades y la primera actividad que se realizará será una visita de 10 niños de escuelas públicas de Novo Hamburgo a la Universidad de los niños.
@@ -100,3 +109,5 @@ Estado: A la espera del resultado <br>
     &nbsp; &nbsp; &nbsp;
     <a href="./informe.html">Siguiente &raquo;</a>
 </div>
+
+
