@@ -110,7 +110,7 @@ Estado: Propuesta aprobada <br>
 
 Dirijo la siguiente pasantía de investigación financiada por la convocatoria de Jóvenes Investigadores Minciencias:
 
-Título: Generación, validación y análisis de Modelos de Machine Learning con procesamiento de imágenes para medir el nivel y tipo de infección y prevenir pérdidas en los cultivos
+Título: Generación, validación y análisis de Modelos de Machine Learning con procesamiento de imágenes para medir el nivel y tipo de infección y prevenir pérdidas en los cultivos <br>
 Pasante: Manuela Larrea
 
 ### Semilleros
@@ -121,15 +121,15 @@ Desde Agosto de 2022 dirijo el Semillero en Machine Learning que cuenta con más
 
 En 2023-1 recibí dos pasantes doctorales de la Universidad de Antioquia:
 
-Título: Modelo de inteligencia computacional para inferir prejuicio hacia actores del conflicto armado colombiano a partir de datos electrofisiológicos y comportamentales
-Estudiante: Jhon Jair Quiza Montealegre
-Programa: Doctorado en Ingeniería Electrónica y de Computación
-Institución: Universidad de Antioquia
+Título: Modelo de inteligencia computacional para inferir prejuicio hacia actores del conflicto armado colombiano a partir de datos electrofisiológicos y comportamentales <br>
+Estudiante: Jhon Jair Quiza Montealegre <br>
+Programa: Doctorado en Ingeniería Electrónica y de Computación <br>
+Institución: Universidad de Antioquia <br>
 
-Título: Separación de fuentes en datos ecoacústicos usando modelos de inteligencia computacional
-Estudiante: David Felipe Luna Naranjo
-Programa: Doctorado en Ingeniería Electrónica y de Computación
-Institución: Universidad de Antioquia
+Título: Separación de fuentes en datos ecoacústicos usando modelos de inteligencia computacional <br>
+Estudiante: David Felipe Luna Naranjo <br>
+Programa: Doctorado en Ingeniería Electrónica y de Computación <br>
+Institución: Universidad de Antioquia <br>
 
 <div align="center">
     <a href="./Docencia.html">&laquo;Anterior</a>
