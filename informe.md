@@ -15,7 +15,4 @@ Este documento muestra la evidencias de las actividades realizadas en los tres e
 - [Servicio](./Servicio.html)
 
 
-[Informe de actividades](./informe.html) <br>
-[Plan quinquenal](./plan.html) <br>
-
 [back](./)
