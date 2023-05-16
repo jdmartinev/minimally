@@ -63,15 +63,15 @@ Investigadores: Juan Alejandro Peña, Lina María Sepúlveda, Juan David Martín
 
 Título: Fortalecimiento del desarrollo científico para la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos en la 
 cuenca media del río Cauca en la región eje cafetero. <br>
-Convocatoria: 031-2022 CONVOCATORIA DE SGR - AMBIENTE -FORTALECIMIENTO DE CENTROS DE INVESTIGACIÓN- MEC 1
-Estado: En lista de financiables
-Entidades participantes: UNAL Manizales, UTP, U de Caldas, EAFIT, Corpocaldas, BIOS
+Convocatoria: 031-2022 CONVOCATORIA DE SGR - AMBIENTE -FORTALECIMIENTO DE CENTROS DE INVESTIGACIÓN- MEC 1 <br>
+Estado: En lista de financiables <br>
+Entidades participantes: UNAL Manizales, UTP, U de Caldas, EAFIT, Corpocaldas, BIOS <br>
 
 Participo como co-investigador ad-honorem del siguiente proyecto:
 
-Título: Conservación biológica usando Inteligencia Artificial
-Convocatoria: 852 de Minciencias
-Estado: Tercer año de ejecución
+Título: Conservación biológica usando Inteligencia Artificial <br>
+Convocatoria: 852 de Minciencias <br>
+Estado: Tercer año de ejecución <br>
 
 ### Estudiantes
 
