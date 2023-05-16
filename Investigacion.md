@@ -11,6 +11,8 @@ title: Investigación
 
 ## **Investigación**
 
+Desde el año 2022 estoy categorizado como Investigador Senior según Minciencias.
+
 ### Artículos 
 
 En el primer año de vinculación, participé en la publicación de los siguientes artículos. 
