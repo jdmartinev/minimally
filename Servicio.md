@@ -98,5 +98,5 @@ Estado: A la espera del resultado <br>
 <div align="center">
     <a href="./Investigacion.html">&laquo;Anterior</a>
     &nbsp; &nbsp; &nbsp;
-    <a href="./Informe.html">Siguiente &raquo;</a>
+    <a href="./informe.html">Siguiente &raquo;</a>
 </div>
