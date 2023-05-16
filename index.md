@@ -20,4 +20,6 @@ layout: default
 </div>
 
 
-[Link to another page](./another-page.html).
+## Tabla de contenidos
+[Informe de actividades](./informe.html).
+[Plan quinquenal](./plan.html).
