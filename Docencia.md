@@ -60,6 +60,6 @@ Estado: En proceso
 
 <ul class="pager"> <!--this is the style of the button-->
 <li><a href="./">Back</li> <!--This button takes me to the table of contents-->
-<li><a href=".Investigacion.md/">Next> <!--This button takes me to the previous page-->
+<li><a href=".Investigacion.md/">Next</li> <!--This button takes me to the previous page-->
 </ul>
 
