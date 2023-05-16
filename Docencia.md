@@ -47,3 +47,5 @@ Título: Identificación de anomalías en el aislamiento de líneas de transmisi
 Estudiante: Daniel Alonso Sánchez Echeverri
 Co-director: Édison Valencia Díaz
 Estado: En proceso
+
+[back](./)
