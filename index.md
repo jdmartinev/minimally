@@ -21,5 +21,5 @@ layout: default
 
 
 ## Tabla de contenidos
-[Informe de actividades](./informe.html). <br>
-[Plan quinquenal](./plan.html). <br>
+[Informe de actividades](./informe.html) <br>
+[Plan quinquenal](./plan.html) <br>
