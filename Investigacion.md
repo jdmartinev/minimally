@@ -13,7 +13,7 @@ title: Investigación
 
 ### Artículos 
 
-En el primer año de vinculación, participé en la escritura de los siguientes artículos. 
+En el primer año de vinculación, participé en la publicación de los siguientes artículos. 
 
 Rivera-Muñoz, L. M., Giraldo-Forero, A. F., & Martinez-Vargas, J. D. (2022). Deep matrix factorization models for estimation of missing data in a low-cost sensor network to measure air quality. Ecological Informatics, 71, 101775.  <br>
 Estado: Publicado <br>
