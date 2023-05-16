@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Informe de actividades
+title: Informe 2022-2 - 2023-1
 rank: 1
 ---
 
@@ -14,10 +14,10 @@ rank: 1
     <img src="Figs/logo-firma-2023.jpg" alt="Logo" width="200" height="200">
   </a>
   
-  <h3 align="center">Informe de actividades</h3>
+  <h3 align="center">Informe primer año de vinculación</h3>
 
   <p align="center">
-    Informe de actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT  <br />
+    Este documento muestra las actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT y el plan de trabajo planeado para los próximos cinco años <br />
     Juan David Martínez Vargas
   </p>
 </div>
