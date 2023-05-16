@@ -117,4 +117,9 @@ Pasante: Manuela Larrea
 
 Actualmente, dirijo el Semillero en Machine Learning que cuenta con más de 10 estudiantes de Ingeniería de Sistemas, Ingenieria Matemática, Administración, entre otras.
 
+<div align="center">
+    <a href="./Docencia.html">&laquo;Anterior</a>
+    &nbsp; &nbsp; &nbsp;
+    <a href="./Servicio.html">Siguiente &raquo;</a>
+</div>
 
