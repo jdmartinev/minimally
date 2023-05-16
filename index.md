@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -22,3 +18,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
     Juan David Martínez Vargas
   </p>
 </div>
+
+
+[Link to another page](./another-page.html).
