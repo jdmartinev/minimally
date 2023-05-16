@@ -59,5 +59,6 @@ Estudiante: Daniel Alonso Sánchez Echeverri
 Co-director: Édison Valencia Díaz
 Estado: En proceso
 
-[Anterior](./informe.html) *** [Siguiente](./Investigacion.html)
+[Anterior](./informe.html)  <p style='text-align: right;'> [Siguiente](./Investigacion.html) </p>
+
 
