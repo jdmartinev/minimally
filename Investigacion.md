@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Investigación
+rank: 3
 ---
 
 <div align="center">
