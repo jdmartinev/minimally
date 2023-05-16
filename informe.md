@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Informe de actividades
+rank: 2
 ---
 
 <div align="center">
