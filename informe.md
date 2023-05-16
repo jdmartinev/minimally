@@ -11,7 +11,7 @@ layout: default
 Este documento muestra la evidencias de las actividades realizadas en los tres ejes misionales:
 
 - [Docencia](./Docencia.html)
-- [Investigación](./Investigación.html)
+- [Investigación](./Investigacion.html)
 - [Servicio](./Servicio.html)
 
 
