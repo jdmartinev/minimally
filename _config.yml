@@ -1,6 +1,6 @@
 title: Informe de actividades
 logo: /Figs/Logo_EAFIT.svg.png
 description: Informe actividades Juan David Martínez Vargas
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
