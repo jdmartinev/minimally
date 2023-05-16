@@ -17,4 +17,9 @@ Este documento muestra la evidencias de las actividades realizadas en los tres e
 - [Investigación](./Investigacion.html)
 - [Servicio](./Servicio.html)
 
-[Anterior](./)  [Siguiente](./Docencia.html)
+<div align="center">
+    <a href="./">&laquo;Anterior</a>
+    &nbsp; &nbsp; &nbsp;
+    <a href="./Docencia.html">Siguiente &raquo;</a>
+</div>
+
