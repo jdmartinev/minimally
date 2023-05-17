@@ -15,7 +15,9 @@ Desde el año 2022 estoy categorizado como Investigador Senior según Minciencia
 
 ### Artículos 
 
-En el primer año de vinculación, participé en la publicación de los siguientes artículos. 
+En el primer año de vinculación, participé en la escritura de los siguientes artículos.
+
+#### Publicados
 
 Rivera-Muñoz, L. M., Giraldo-Forero, A. F., & Martinez-Vargas, J. D. (2022). Deep matrix factorization models for estimation of missing data in a low-cost sensor network to measure air quality. Ecological Informatics, 71, 101775.  <br>
 Estado: Publicado <br>
@@ -34,6 +36,8 @@ Conferencia: Smartech-IC 2022 <br>
 Memorias: Communications in Computer and Information Science <br>
 SJR: Q4
 
+#### Sometidos
+
 Adicionalmente, estoy a la espera de respuesta por parte de las revistas con respecto a los siguientes artículos:
 
 Título: Characterizing social and cognitive EEG-ERP through multiple kernel learning <br>
@@ -44,7 +48,7 @@ Estado: Correcciones enviadas
 
 Título: Systematic review of machine learning methods applied to ecoacoustics and soundscape monitoring <br> 
 Autores: D.A Nieto-Mora, Susana Rodríguez-Buritica, Paula Rodríguez-Marín, J.D Martínez-Vargaz, Claudia Isaza-Narváez <br> 
-Revista: HELITON <br>
+Revista: HELIYON <br>
 SJR: Q1 <br> 
 Estado: Preparando respuestas de los evaluadores
 
