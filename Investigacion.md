@@ -122,6 +122,10 @@ Pasante: Manuela Larrea
 
 Desde Agosto de 2022 dirijo el Semillero en Machine Learning que cuenta con más de 10 estudiantes de Ingeniería de Sistemas, Ingenieria Matemática, Administración, entre otras.
 
+<div align="center">
+![Alt text](/Figs/semillero.jpg)
+</div>
+
 ### Investigadores visitantes
 
 En 2023-1 recibí dos pasantes doctorales de la Universidad de Antioquia:
