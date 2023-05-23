@@ -78,7 +78,7 @@ Título: Conservación biológica usando Inteligencia Artificial <br>
 Convocatoria: 852 de Minciencias <br>
 Estado: Tercer año de ejecución <br>
 
-### Estudiantes
+### Estudiantes con énfasis en investigación
 
 Por el proyecto EpiPlannerAI, dirijo la siguiente tesis de la Maestría en Matemáticas Aplicadas:
 
