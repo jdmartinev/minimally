@@ -24,6 +24,11 @@ Estado: Publicado <br>
 doi: [https://doi.org/10.1016/j.ecoinf.2022.101775](https://doi.org/10.1016/j.ecoinf.2022.101775) <br>
 SJR: Q1
 
+Título: Characterizing social and cognitive EEG-ERP through multiple kernel learning <br>
+Autores: Daniel Nieto, Stella Valencia, Natalia Trujillo, Jose David López and Juan David Martínez <br>
+Revista: HELIYON <br>
+SJR: Q1 <br>
+
 Título: Identification of tropical dry forest transformation from soundscapes usingsupervised learning <br>
 Autores: Andres E. Castro-Ospina, Susana Rodríguez-Buriticá, Nestor Rendon, Maria C. Velandia-García, Claudia Isaza, and Juan D. Martínez-Vargas <br>
 Conferencia: Smartech-IC 2022 <br>
@@ -39,12 +44,6 @@ SJR: Q4
 #### Sometidos
 
 Adicionalmente, estoy a la espera de respuesta por parte de las revistas con respecto a los siguientes artículos:
-
-Título: Characterizing social and cognitive EEG-ERP through multiple kernel learning <br>
-Autores: Daniel Nieto, Stella Valencia, Natalia Trujillo, Jose David López and Juan David Martínez <br>
-Revista: HELIYON <br>
-SJR: Q1 <br>
-Estado: Correcciones enviadas
 
 Título: Systematic review of machine learning methods applied to ecoacoustics and soundscape monitoring <br> 
 Autores: D.A Nieto-Mora, Susana Rodríguez-Buritica, Paula Rodríguez-Marín, J.D Martínez-Vargaz, Claudia Isaza-Narváez <br> 
